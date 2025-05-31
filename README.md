@@ -12,7 +12,9 @@
   В каком-то смысле писать хороший код на Си - это ювелирная работа.
 
 
-📫 **Контакты:** [Telegram](https://t.me/veranemoloko), [Email](neveranemoloko@gmail.com)  
+📫 **Контакты:** 
+  - [Telegram](https://t.me/veranemoloko)
+  - neveranemoloko@gmail.com
 
 
 
