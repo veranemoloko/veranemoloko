@@ -2,7 +2,7 @@
 
 ### 👾 Интересуюсь системным програмированием и backand-разработкой:
 - ♠️ Пишу проекты на C ([grep/cat](https://github.com/veranemoloko/mini-clone-grep-cat))
-- ♦️ Go ([pg-go-bus]([https://github.com/veranemoloko/w](https://github.com/veranemoloko/wb-tech-l1)))
+- ♦️ Go ([wb-tech](https://github.com/veranemoloko/w](https://github.com/veranemoloko/wb-tech-l1)))
 - ♥️ PostgeSQL ([pg_jewelry_tools](https://github.com/veranemoloko/pg_jewelry_tools));
 - ♣️ Открыта для волонтерства, соместных проектов, хакатонов и всякого рода интенсивов. 
 
